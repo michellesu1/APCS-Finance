@@ -8,3 +8,4 @@
      - Implemented register, buy, and quote functions in main.py (index and sell in progress)
 - Used SQLite to create and maintain databases for managing users and transactions
 - Wrote all .html files in templates folder (excluding login.html) and transactions.sql
+- Used Yahoo Finance API to get stock prices
