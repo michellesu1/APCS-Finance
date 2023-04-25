@@ -1,4 +1,7 @@
 # APCS Finance
+
+[View this website on Replit](https://finance-michellesu2.apcsp6-2023.repl.co)
+
  
 - Course project for AP Computer Science/Harvard CS50 Course ([Project Description](https://cs50.harvard.edu/x/2022/psets/9/finance/))
 - Created a website that allows users to simulate real-time stock trading
